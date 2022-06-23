@@ -8,11 +8,11 @@
   
 # Description  
 
-This is a Web Application that allows users, .
+This is a Web Application that allows users, after signing up or signing in to see the available jobs and apply for them. Employers can also sign up or sing in and post available jobs to get potential employees.
 
 ##  Live Link  
  
-https://whatspoppin-jay-hood.herokuapp.com/
+https:///
 
 
 
