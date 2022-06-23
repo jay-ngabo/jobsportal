@@ -20,11 +20,11 @@ https:///
   
 ##### Clone the repository:  
  ```bash 
- git@github.com:jay-ngabo/The_Neighborhood.git
+ git@github.com:jay-ngabo/jobsportal.git
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
-cd The_Neighborhood
+cd jobsportal
 ```
 ##### Install and activate Virtual  
  ```bash 
